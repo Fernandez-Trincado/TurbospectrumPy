@@ -8,4 +8,6 @@ If you have any comments, suggestions, and/or complaints, please contact me: jfe
 This repository is a simple Python Script to run TurboSpectrum
 --
 
-Turbospectrum code for spectral synthesis v15.1 can be found at [Turbospectrum code for spectral synthesis v15.1](http://www.pages-perso-bertrand-plez.univ-montp2.fr)
+  * Turbospectrum code for spectral synthesis v15.1 can be found at [Turbospectrum code for spectral synthesis v15.1](http://www.pages-perso-bertrand-plez.univ-montp2.fr)
+  * I also recommend to use a more complete version for spectral synthesis (apogee)[https://github.com/Fernandez-Trincado/apogee] developed by Jo Bovy.
+
