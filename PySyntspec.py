@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# Athor: J. G. Fernandez-Trincado
+# Author: J. G. Fernandez-Trincado
 # Any comments, suggestions, and your complaints, are welcome.
 # Contact me: jfernandez@obs-besancon.fr and/or jfernandezt87@gmail.com
 
