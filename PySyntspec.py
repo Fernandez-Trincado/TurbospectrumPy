@@ -1,5 +1,7 @@
 #!/usr/bin/python
-
+# Athor: J. G. Fernandez-Trincado
+# Any comments, suggestions, and your complaints, are welcome.
+# Contact me: jfernandez@obs-besancon.fr and/or jfernandezt87@gmail.com
 
 import numpy as np
 import scipy as sc
