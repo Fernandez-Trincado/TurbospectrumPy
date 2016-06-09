@@ -15,4 +15,5 @@ This repository is a simple Python Script to run TurboSpectrum
 References
 --
 
-* Conversion from vacuum to standard air wavelengths can be found at [vac2air and air2vac](http://hebe.as.utexas.edu/apogee/docs/air_vacuum.pdf)
+  * Conversion from vacuum to standard air wavelengths can be found at [vac2air and air2vac](http://hebe.as.utexas.edu/apogee/docs/air_vacuum.pdf)
+  * Radiative Transfer in Stellar Atmospheres can be found at [Review](http://www.staff.science.uu.nl/~rutte101/rrweb/rjr-edu/coursenotes/rutten_rtsa_notes_2003.pdf) 
