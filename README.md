@@ -15,4 +15,4 @@ This repository is a simple Python Script to run TurboSpectrum
 References
 --
 
-* Conversion from vacuum to standard air wavelengths can be found at [http://hebe.as.utexas.edu/apogee/docs/air_vacuum.pdf]
+* Conversion from vacuum to standard air wavelengths can be found at (vac2air and air2vac)[http://hebe.as.utexas.edu/apogee/docs/air_vacuum.pdf]
