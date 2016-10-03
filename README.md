@@ -13,12 +13,14 @@ This repository is a simple Python Script to run TurboSpectrum
 
 Manual analysis - [Manualsynthesis.py](https://github.com/Fernandez-Trincado/TurbospectrumPy/blob/master/Manualsynthesis.py) is a Python script for the treatment and analysis of stellar spectra. Some of the main functionalities of this script are the following:
 --
+ * Stellar spectral synthesis using Turbospectrum fortran code (Bertrand Plez)
+
+
 ![Figure 1](https://github.com/Fernandez-Trincado/TurbospectrumPy/blob/master/Abundance1.png)
 
 Instructions:
 -
- * Stellar spectral synthesis using Turbospectrum fortran code (Bertrand Plez)
-
+ * 
 
 References
 --
