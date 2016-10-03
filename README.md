@@ -13,8 +13,11 @@ This repository is a simple Python Script to run TurboSpectrum
 
 Manual analysis: Use 
 --
-![Figure 1](https://github.com/Fernandez-Trincado/HQOrbits/blob/master/Figures/NRich.png)
+![Figure 1](https://github.com/Fernandez-Trincado/TurbospectrumPy/blob/master/Abundance1.png)
 
+Instructions:
+-
+ *  Configuration file 1 
 
 References
 --
