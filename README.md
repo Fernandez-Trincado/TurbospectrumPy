@@ -11,13 +11,14 @@ This repository is a simple Python Script to run TurboSpectrum
   * Turbospectrum code for spectral synthesis v15.1 can be found at [Turbospectrum code for spectral synthesis v15.1](http://www.pages-perso-bertrand-plez.univ-montp2.fr)
   * I also recommend to use a more complete version for spectral synthesis for [Apogee](https://github.com/Fernandez-Trincado/apogee) spectra, developed in Python by Jo Bovy.
 
-Manual analysis: Use 
+Manual analysis - [Manualsynthesis.py](https://github.com/Fernandez-Trincado/TurbospectrumPy/blob/master/Manualsynthesis.py) is a Python script for the treatment and analysis of stellar spectra. Some of the main functionalities of this script are the following:
 --
 ![Figure 1](https://github.com/Fernandez-Trincado/TurbospectrumPy/blob/master/Abundance1.png)
 
 Instructions:
 -
- *  Configuration file 1 
+ * Stellar spectral synthesis using Turbospectrum fortran code (Bertrand Plez)
+
 
 References
 --
