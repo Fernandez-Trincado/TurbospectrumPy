@@ -11,6 +11,10 @@ This repository is a simple Python Script to run TurboSpectrum
   * Turbospectrum code for spectral synthesis v15.1 can be found at [Turbospectrum code for spectral synthesis v15.1](http://www.pages-perso-bertrand-plez.univ-montp2.fr)
   * I also recommend to use a more complete version for spectral synthesis for [Apogee](https://github.com/Fernandez-Trincado/apogee) spectra, developed in Python by Jo Bovy.
 
+Manual analysis: Use 
+--
+![Figure 1](https://github.com/Fernandez-Trincado/HQOrbits/blob/master/Figures/NRich.png)
+
 
 References
 --
