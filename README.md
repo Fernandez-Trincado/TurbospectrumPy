@@ -34,3 +34,17 @@ References
 
   * Conversion from vacuum to standard air wavelengths can be found at [VAC2AIR/AIR2VAC](http://hebe.as.utexas.edu/apogee/docs/air_vacuum.pdf)
   * Radiative Transfer in Stellar Atmospheres can be found at [Review](http://www.staff.science.uu.nl/~rutte101/rrweb/rjr-edu/coursenotes/rutten_rtsa_notes_2003.pdf) 
+  
+Support TurbospectrumPy
+--
+
+If you use TurbospectrumPy in your research, we would be grateful if you could include an acknowledgment in papers and/or presentations:
+
+    "This research made use of TurbospectrumPy, a community-developed core Python package for Astronomy."
+
+Thanks.
+
+  
+  
+  
+  
