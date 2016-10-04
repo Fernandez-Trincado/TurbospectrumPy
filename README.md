@@ -17,12 +17,17 @@ Manual analysis - [Manualsynthesis.py](https://github.com/Fernandez-Trincado/Tur
 
 ![Figure 1](https://github.com/Fernandez-Trincado/TurbospectrumPy/blob/master/Abundances2.png)
 
-Instructions:
+Execution:
 -
- * run: python Manualsynthesis.py
+ * (1) python Manualsynthesis.py or (2) ./Manualsynthesis.py
  * Example:
 
 ![Figure 2](https://github.com/Fernandez-Trincado/TurbospectrumPy/blob/master/run.png)
+
+ * Spectra file format
+ * Configuration files
+ * Atmosphere models 
+
 
 References
 --
