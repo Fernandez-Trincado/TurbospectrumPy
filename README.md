@@ -15,12 +15,14 @@ Manual analysis - [Manualsynthesis.py](https://github.com/Fernandez-Trincado/Tur
 --
  * Stellar spectral synthesis using Turbospectrum fortran code (Bertrand Plez)
 
-
 ![Figure 1](https://github.com/Fernandez-Trincado/TurbospectrumPy/blob/master/Abundance2.png)
 
 Instructions:
 -
- * 
+ * run: python Manualsynthesis.py
+ * Example:
+
+![Figure 2](https://github.com/Fernandez-Trincado/TurbospectrumPy/blob/master/run.png)
 
 References
 --
