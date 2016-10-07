@@ -20,11 +20,14 @@ Manual analysis - [Manualsynthesis.py](https://github.com/Fernandez-Trincado/Tur
 Instructions:
 -
  1. Download the atmosphere model at:
-   * [Kurucz model](https://data.sdss.org/sas/apogeework/apogee/spectro/redux/speclib/kurucz_filled/mm08cp00op00/) (this requires your trac account) 
-   * [MARCS model](https://data.sdss.org/sas/apogeework/apogee/spectro/redux/speclib/marcs/edvarsson/) (this requires your trac account)
-
- * (1) python Manualsynthesis.py or (2) ./Manualsynthesis.py
- * Example:
+   1.1 [Kurucz model](https://data.sdss.org/sas/apogeework/apogee/spectro/redux/speclib/kurucz_filled/mm08cp00op00/) (this requires your trac account) 
+   1.2 [MARCS model](https://data.sdss.org/sas/apogeework/apogee/spectro/redux/speclib/marcs/edvarsson/) (this requires your trac account)
+ 
+ 2. Run the Python script:
+  2.1 Option 1: > python Manualsynthesis.py
+  2.2 Option 2: > ./Manualsynthesis.py
+  
+  * Example:
 
 ![Figure 2](https://github.com/Fernandez-Trincado/TurbospectrumPy/blob/master/run.png)
 
