@@ -19,7 +19,7 @@ Manual analysis - [Manualsynthesis.py](https://github.com/Fernandez-Trincado/Tur
 
 Instructions:
 -
- [1] Download the atmosphere model at:
+ 1. Download the atmosphere model at:
    * [Kurucz model](https://data.sdss.org/sas/apogeework/apogee/spectro/redux/speclib/kurucz_filled/mm08cp00op00/) (this requires your trac account) 
    * [MARCS model](https://data.sdss.org/sas/apogeework/apogee/spectro/redux/speclib/marcs/edvarsson/) (this requires your trac account)
 
