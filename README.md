@@ -41,7 +41,6 @@ Instructions:
 
  5. `Disclaimer:` The manual analysis is made at your own risks. The author is not responsible for wrong applications of their program. In case you would like complementary informations, you may contact me directly (jfernandez[at]obs-besancon.fr and/or jfernandezt87[at]gmail.com). 
 
-
 References
 --
 
