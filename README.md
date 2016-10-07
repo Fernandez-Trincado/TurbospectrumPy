@@ -21,7 +21,7 @@ Manual analysis
 
 Instructions to make spectrum synthesis star-to-star and line-to-line. Below for this:
 --
- 0. Donwload the main Python program at: [Manualsynthesis.py](https://github.com/Fernandez-Trincado/TurbospectrumPy/blob/master/Manualsynthesis.py)
+ 0. Download the main Python program at: [Manualsynthesis.py](https://github.com/Fernandez-Trincado/TurbospectrumPy/blob/master/Manualsynthesis.py)
 
  1. Download the atmosphere model at:
  
