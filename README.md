@@ -35,7 +35,7 @@ Instructions:
   
   3.2 Option 2: > ./Manualsynthesis.py
   
-  * Example:
+ 4. Example: Input and Output. This program find the best-fit between the synthetic spectrum and the observed spectrum using the Chi^2 technique.
 
 ![Figure 2](https://github.com/Fernandez-Trincado/TurbospectrumPy/blob/master/run.png)
 
