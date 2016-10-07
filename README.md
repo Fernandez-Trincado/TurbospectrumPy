@@ -18,7 +18,7 @@ Manual analysis
 
 ![Figure 1](https://github.com/Fernandez-Trincado/TurbospectrumPy/blob/master/Abundances2.png)
 
-Instructions:
+Instructions to make the manual synthesis star-to-star:
 -
  1. Download the atmosphere model at:
  
