@@ -25,11 +25,15 @@ Instructions:
    
    1.2 [MARCS model](https://data.sdss.org/sas/apogeework/apogee/spectro/redux/speclib/marcs/edvarsson/) (this requires your trac account)
  
- 2. Run the Python script:
- 
-  2.1 Option 1: > python Manualsynthesis.py
+ 2. Download your spectrum at:
   
-  2.2 Option 2: > ./Manualsynthesis.py
+   2.1 [SDSS-IV Spectra](https://data.sdss.org/sas/apogeework/apogee/spectro/redux/r6/stars/l30e/l30e.2/) (this requires your trac account)
+ 
+ 3. Run the Python script:
+ 
+  3.1 Option 1: > python Manualsynthesis.py
+  
+  3.2 Option 2: > ./Manualsynthesis.py
   
   * Example:
 
