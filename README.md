@@ -36,7 +36,7 @@ Instructions to make spectrum synthesis star-to-star and line-to-line. Below are
   
    4.1 [SDSS-IV Spectra](https://data.sdss.org/sas/apogeework/apogee/spectro/redux/r6/stars/l30e/l30e.2/) (this requires your trac account)
 
- 5. Download the window list at: [windows_apogee_manual_vac.dat](https://data.sdss.org/sas/apogeework/apogee/spectro/redux/r6/stars/l30e/l30e.2/) (this requires your trac account)
+ 5. Download the window list at: [windows_apogee_manual_vac.dat](xxx) (this requires your trac account)
  
  5. Run the Python script:
  
