@@ -22,31 +22,31 @@ Manual analysis
 Instructions to make spectrum synthesis star-to-star and line-to-line. Below are instructions for this:
 --
 
- 0. NOTE: This program only works for APOGEE spectra, but can be extended and other cases.
+ 1. NOTE: This program only works for [APOGEE spectra](http://www.sdss.org/dr13/), but can be extended and other cases.
 
- 0. Download the main Python program at: [Manualsynthesis.py](https://github.com/Fernandez-Trincado/TurbospectrumPy/blob/master/Manualsynthesis.py)
+ 2. Download the main Python program at: [Manualsynthesis.py](https://github.com/Fernandez-Trincado/TurbospectrumPy/blob/master/Manualsynthesis.py)
 
- 1. Download the atmosphere model at:
+ 3. Download the atmosphere model at:
  
-   1.1 [Kurucz model](https://data.sdss.org/sas/apogeework/apogee/spectro/redux/speclib/kurucz_filled/mm08cp00op00/) (this requires your trac account) 
+   3.1 [Kurucz model](https://data.sdss.org/sas/apogeework/apogee/spectro/redux/speclib/kurucz_filled/mm08cp00op00/) (this requires your trac account) 
    
-   1.2 [MARCS model](https://data.sdss.org/sas/apogeework/apogee/spectro/redux/speclib/marcs/edvarsson/) (this requires your trac account)
+   3.2 [MARCS model](https://data.sdss.org/sas/apogeework/apogee/spectro/redux/speclib/marcs/edvarsson/) (this requires your trac account)
  
- 2. Download your spectrum at:
+ 4. Download your spectrum at:
   
-   2.1 [SDSS-IV Spectra](https://data.sdss.org/sas/apogeework/apogee/spectro/redux/r6/stars/l30e/l30e.2/) (this requires your trac account)
+   4.1 [SDSS-IV Spectra](https://data.sdss.org/sas/apogeework/apogee/spectro/redux/r6/stars/l30e/l30e.2/) (this requires your trac account)
  
- 3. Run the Python script:
+ 5. Run the Python script:
  
-  3.1 Option 1: > python Manualsynthesis.py
+  5.1 Option 1: > python Manualsynthesis.py
   
-  3.2 Option 2: > ./Manualsynthesis.py
+  5.2 Option 2: > ./Manualsynthesis.py
   
- 4. Input and Output (example). This program find the best-fit between the synthetic spectrum and the observed spectrum using the Chi^2 technique.
+ 6. Input and Output (example). This program find the best-fit between the synthetic spectrum and the observed spectrum using the Chi^2 technique.
  
     ![Figure 2](https://github.com/Fernandez-Trincado/TurbospectrumPy/blob/master/run.png)
  
- 5. `Disclaimer:` The manual analysis is made at your own risks. The author is not responsible for wrong applications of their program. In case you would like complementary informations, you may contact me directly (jfernandez[at]obs-besancon.fr and/or jfernandezt87[at]gmail.com). 
+ 7. `Disclaimer:` The manual analysis is made at your own risks. The author is not responsible for wrong applications of their program. In case you would like complementary informations, you may contact me directly (jfernandez[at]obs-besancon.fr and/or jfernandezt87[at]gmail.com). 
 
 Instructions to make spectrum synthesis for many APOGEE stars line-to-line. Below are instructions for this:
 --
