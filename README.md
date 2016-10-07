@@ -18,8 +18,8 @@ Manual analysis
 
 ![Figure 1](https://github.com/Fernandez-Trincado/TurbospectrumPy/blob/master/Abundances2.png)
 
-Instructions to make the manual synthesis star-to-star:
--
+Instructions to make the manual synthesis star-to-star and line-to-line:
+--
  1. Download the atmosphere model at:
  
    1.1 [Kurucz model](https://data.sdss.org/sas/apogeework/apogee/spectro/redux/speclib/kurucz_filled/mm08cp00op00/) (this requires your trac account) 
@@ -41,6 +41,12 @@ Instructions to make the manual synthesis star-to-star:
     ![Figure 2](https://github.com/Fernandez-Trincado/TurbospectrumPy/blob/master/run.png)
  
  5. `Disclaimer:` The manual analysis is made at your own risks. The author is not responsible for wrong applications of their program. In case you would like complementary informations, you may contact me directly (jfernandez[at]obs-besancon.fr and/or jfernandezt87[at]gmail.com). 
+
+Instructions to make the manual synthesis for many stars line-to-line:
+--
+
+In construction ...
+
 
 References
 --
