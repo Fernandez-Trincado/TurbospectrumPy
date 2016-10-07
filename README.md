@@ -19,7 +19,7 @@ Manual analysis
 ![Figure 1](https://github.com/Fernandez-Trincado/TurbospectrumPy/blob/master/Abundances2.png)
 
 
-Instructions to make spectrum sysnthesis star-to-star and line-to-line:
+Instructions to make spectrum synthesis star-to-star and line-to-line. Below for this:
 --
  1. Download the atmosphere model at:
  
@@ -43,7 +43,7 @@ Instructions to make spectrum sysnthesis star-to-star and line-to-line:
  
  5. `Disclaimer:` The manual analysis is made at your own risks. The author is not responsible for wrong applications of their program. In case you would like complementary informations, you may contact me directly (jfernandez[at]obs-besancon.fr and/or jfernandezt87[at]gmail.com). 
 
-Instructions to make the manual synthesis for many stars line-to-line:
+Instructions to make spectrum synthesis for many APOGEE stars line-to-line:
 --
 
 In construction ...
