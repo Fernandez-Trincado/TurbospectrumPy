@@ -43,7 +43,7 @@ Instructions:
  * Configuration files
  * Atmosphere models 
 
- 5. The manual analysis are made at your own risks. The author are not responsible for wrong applications of their program. 
+ 5. `Disclaimer:` The manual analysis are made at your own risks. The author are not responsible for wrong applications of their program. 
 
 References
 --
