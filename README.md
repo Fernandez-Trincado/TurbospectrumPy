@@ -22,7 +22,7 @@ Manual analysis
 Instructions to make spectrum synthesis star-to-star and line-to-line. Below are instructions for this:
 --
 
- 1. `NOTE:` The Python script is fully functional and only works for [APOGEE spectra](http://www.sdss.org/dr13/), but can be extended to other cases, if you want to use it in another spectral range, please contact me (jfernandez@obs-besancon.fr, jfernandezt87@gmail.com) to discuss the applicability to your case.
+ 1. `NOTE:` The Python script is fully functional and only works for [APOGEE spectra](http://www.sdss.org/dr13/), but can be extended to other cases, if you want to use it in another spectral range, please contact me to discuss the applicability to your case.
 
  2. Download the main Python program at: [Manualsynthesis.py](https://github.com/Fernandez-Trincado/TurbospectrumPy/blob/master/Manualsynthesis.py)
 
